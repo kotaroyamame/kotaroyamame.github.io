@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kotaroyamame.github.io/atom.xml" rel="self"/>
   <link href="http://kotaroyamame.github.io/"/>
-  <updated>2015-12-19T00:24:46-05:00</updated>
+  <updated>2015-12-19T16:03:53-05:00</updated>
   <id>http://kotaroyamame.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -18,7 +18,9 @@
     <link href="http://kotaroyamame.github.io/blog/2015/12/18/title/"/>
     <updated>2015-12-18T19:35:12-05:00</updated>
     <id>http://kotaroyamame.github.io/blog/2015/12/18/title</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1>テストの記事の見出しです</h1>
+
+<p>テストの記事の本文です</p>
 ]]></content>
   </entry>
   
