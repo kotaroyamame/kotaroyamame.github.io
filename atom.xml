@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[テストブログ]]></title>
+  <title><![CDATA[GitHubのブログ]]></title>
   <link href="http://kotaroyamame.github.io/atom.xml" rel="self"/>
   <link href="http://kotaroyamame.github.io/"/>
-  <updated>2015-12-19T16:08:56-05:00</updated>
+  <updated>2015-12-19T16:12:58-05:00</updated>
   <id>http://kotaroyamame.github.io/</id>
   <author>
     <name><![CDATA[こたろ]]></name>
@@ -14,13 +14,19 @@
 
   
   <entry>
-    <title type="html"><![CDATA[たいとるだよー]]></title>
+    <title type="html"><![CDATA[初めてのOctpress]]></title>
     <link href="http://kotaroyamame.github.io/blog/2015/12/18/title/"/>
     <updated>2015-12-18T19:35:12-05:00</updated>
     <id>http://kotaroyamame.github.io/blog/2015/12/18/title</id>
-    <content type="html"><![CDATA[<h1>テストの記事の見出しです</h1>
+    <content type="html"><![CDATA[<h1>初めてのOctpress記事です</h1>
 
-<p>テストの記事の本文です</p>
+<p>初めてOctpressで記事を書いてみました。
+設置は色々手間取りましたが記事の作成は思いの外簡単でした。</p>
+
+<h2>今回勉強した点</h2>
+
+<p><em>マークダウン記法
+</em>Octpress設置</p>
 ]]></content>
   </entry>
   
