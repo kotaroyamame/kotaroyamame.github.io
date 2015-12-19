@@ -4,7 +4,7 @@
   <title><![CDATA[GitHubのブログ]]></title>
   <link href="http://kotaroyamame.github.io/atom.xml" rel="self"/>
   <link href="http://kotaroyamame.github.io/"/>
-  <updated>2015-12-19T16:22:09-05:00</updated>
+  <updated>2015-12-19T16:24:50-05:00</updated>
   <id>http://kotaroyamame.github.io/</id>
   <author>
     <name><![CDATA[こたろ]]></name>
@@ -25,12 +25,15 @@
 
 <h2>今回勉強した点</h2>
 
-<p>+マークダウン記法
-+Octpress設置
- <em>マークダウン記法
-+Octpress設置
- </em>マークダウン記法
-+Octpress設置</p>
+<ul>
+<li>マークダウン記法</li>
+<li>Octpress設置</li>
+<li>マークダウン記法</li>
+<li>Octpress設置</li>
+<li>マークダウン記法</li>
+<li>Octpress設置</li>
+</ul>
+
 ]]></content>
   </entry>
   
