@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[GitHubのブログ]]></title>
-  <link href="http://kotaroyamame.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Blog | GitHubのブログ]]></title>
+  <link href="http://kotaroyamame.github.io/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://kotaroyamame.github.io/"/>
   <updated>2015-12-19T20:42:49-05:00</updated>
   <id>http://kotaroyamame.github.io/</id>
@@ -36,38 +36,6 @@
     :用語定義リストのDD</p>
 
 <p>の様に用語定義リストも簡単に作ることが出来ます。</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[初めてのOctpress]]></title>
-    <link href="http://kotaroyamame.github.io/blog/2015/12/18/title/"/>
-    <updated>2015-12-18T19:35:12-05:00</updated>
-    <id>http://kotaroyamame.github.io/blog/2015/12/18/title</id>
-    <content type="html"><![CDATA[<h1>初めてのOctpress記事です</h1>
-
-<p>初めてOctpressで記事を書いてみました。
-設置は色々手間取りましたが記事の作成は思いの外簡単でした。</p>
-
-<h2>今回勉強した点</h2>
-
-<ul>
-<li>マークダウン記法</li>
-<li>Octpress設置
-
-<ul>
-<li>マークダウン記法</li>
-</ul>
-</li>
-<li>Octpress設置
-
-<ul>
-<li>マークダウン記法</li>
-</ul>
-</li>
-<li>Octpress設置</li>
-</ul>
-
 ]]></content>
   </entry>
   
