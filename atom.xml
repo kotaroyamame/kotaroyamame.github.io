@@ -4,7 +4,7 @@
   <title><![CDATA[GitHubのブログ]]></title>
   <link href="http://kotaroyamame.github.io/atom.xml" rel="self"/>
   <link href="http://kotaroyamame.github.io/"/>
-  <updated>2015-12-19T20:42:49-05:00</updated>
+  <updated>2015-12-19T20:48:37-05:00</updated>
   <id>http://kotaroyamame.github.io/</id>
   <author>
     <name><![CDATA[こたろ]]></name>
@@ -32,8 +32,10 @@
 
 <p>他にも、</p>
 
-<p>用語定義リストDT
-    :用語定義リストのDD</p>
+<dl>
+<dt>用語定義リストDT</dt>
+<dd>用語定義リストのDD</dd>
+</dl>
 
 <p>の様に用語定義リストも簡単に作ることが出来ます。</p>
 ]]></content>
