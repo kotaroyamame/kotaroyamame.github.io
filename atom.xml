@@ -4,7 +4,7 @@
   <title><![CDATA[GitHubのブログ]]></title>
   <link href="http://kotaroyamame.github.io/atom.xml" rel="self"/>
   <link href="http://kotaroyamame.github.io/"/>
-  <updated>2015-12-19T20:51:09-05:00</updated>
+  <updated>2015-12-21T02:18:07-05:00</updated>
   <id>http://kotaroyamame.github.io/</id>
   <author>
     <name><![CDATA[こたろ]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[来てみたらコーディングしかやることくて集中できる]]></title>
+    <link href="http://kotaroyamame.github.io/blog/2015/12/21/lai-temitarakodeingusikayarukotokuteji-zhong-dekiru/"/>
+    <updated>2015-12-21T02:12:10-05:00</updated>
+    <id>http://kotaroyamame.github.io/blog/2015/12/21/lai-temitarakodeingusikayarukotokuteji-zhong-dekiru</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Octopressでの新しい記事]]></title>
