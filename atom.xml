@@ -4,7 +4,7 @@
   <title><![CDATA[GitHubのブログ]]></title>
   <link href="http://kotaroyamame.github.io/atom.xml" rel="self"/>
   <link href="http://kotaroyamame.github.io/"/>
-  <updated>2015-12-21T02:18:07-05:00</updated>
+  <updated>2015-12-21T02:18:53-05:00</updated>
   <id>http://kotaroyamame.github.io/</id>
   <author>
     <name><![CDATA[こたろ]]></name>
@@ -14,11 +14,20 @@
 
   
   <entry>
-    <title type="html"><![CDATA[来てみたらコーディングしかやることくて集中できる]]></title>
+    <title type="html"><![CDATA[アメリカ来て気がついたらみたらコーディングばかり]]></title>
     <link href="http://kotaroyamame.github.io/blog/2015/12/21/lai-temitarakodeingusikayarukotokuteji-zhong-dekiru/"/>
     <updated>2015-12-21T02:12:10-05:00</updated>
     <id>http://kotaroyamame.github.io/blog/2015/12/21/lai-temitarakodeingusikayarukotokuteji-zhong-dekiru</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h2>アメリカ来て気がついたらみたらコーディングばかり</h2>
+
+<p>はい、アメリカに来て気がついたことですが、コーディングばかりやっております。</p>
+
+<p>何故だ・・・</p>
+
+<p>大して貯金もせずに渡米したものだからお金がなく、仕事でコードをいじくると仕事以外でもコードが気になってプライベートでもコードをいじくり、
+止まらなくなってしまいました。</p>
+
+<p>ブログもスキルアップのためとオクトプレスをはじめ、フェスト、ワードプレスと色々といじっているうちに散在してどれがメインブログだかわからない状態に・・・</p>
 ]]></content>
   </entry>
   
